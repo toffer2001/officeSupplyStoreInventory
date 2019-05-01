@@ -1,0 +1,3 @@
+﻿  OfficeSupplyStoreInventory.cpp
+c:\users\kristofferkeene\dropbox\personal\datc\2310 - c++ programming i\final project\officesupplystoreinventory\officesupplystoreinventory\officesupplystoreinventory.cpp(229): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  OfficeSupplyStoreInventory.vcxproj -> C:\Users\KristofferKeene\Dropbox\Personal\DATC\2310 - C++ Programming I\Final Project\OfficeSupplyStoreInventory\Debug\OfficeSupplyStoreInventory.exe
